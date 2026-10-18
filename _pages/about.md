@@ -13,6 +13,7 @@ redirect_from:
 - Report a critical Exception in [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) Tool [[Issue](https://github.com/tsantalis/RefactoringMiner/issues/778), [Release](https://github.com/tsantalis/RefactoringMiner/releases/tag/3.0.9)]
 
 # Certificates
+- Introduction to Software Product Management, University of Alberta (October 13, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/MQR276ZDSKHE))
 - Claude Code, Masters.dev (September 19, 2026) ([Link](https://static.frontendmasters.com/ud/c/1abc5436ed/ONCeVpyzkJ/claude-code-masterdev.pdf))
 - Navigating Disruptions and Emerging Technologies, University of  Illinois Urbana-Champaign (September 10, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/L2512Z3H8JZY))
 - Knowledge Management, Alfaisal University (March 1, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/0KAXPSRU7UQH))
