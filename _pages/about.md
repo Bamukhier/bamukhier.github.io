@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;I received my Bachelor’s degree in Information Technology from University of Science and Technology, Yemen in 2021. Where I'm currently pursuing my Master’s degree in Software Engineering at Liaoning Technical University, China. My research interest lies in the interaction of Large Language Models and Software Engineering:  **(1)** Data-Centric AI for Software Engineering, **(2)** Repository Mining, **(3)** Software Quality, and **(4)** Intelligent Systems
+I received my Bachelor’s degree in Information Technology from University of Science and Technology, Yemen in 2021. Where I'm currently pursuing my Master’s degree in Software Engineering at Liaoning Technical University, China. My research interest lies in the interaction of Large Language Models and Software Engineering:  **(1)** Data-Centric AI for Software Engineering, **(2)** Repository Mining, **(3)** Software Quality, and **(4)** Intelligent Systems
 
 # Contribution to Open Source
 - Report a critical Exception in [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) Tool [[Issue](https://github.com/tsantalis/RefactoringMiner/issues/778), [Release](https://github.com/tsantalis/RefactoringMiner/releases/tag/3.0.9)]
 
 # Certificates
+- Fundamentals of Building AI Agents, IBM (November 20, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/4JJZXP08BL9L))
+- Software Processes and Agile Practices, University of Alberta (October 22, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/0FRQK5KZ1PNZ))
 - Introduction to Software Product Management, University of Alberta (October 13, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/MQR276ZDSKHE))
 - Claude Code, Masters.dev (September 19, 2026) ([Link](https://static.frontendmasters.com/ud/c/1abc5436ed/ONCeVpyzkJ/claude-code-masterdev.pdf))
 - Navigating Disruptions and Emerging Technologies, University of  Illinois Urbana-Champaign (September 10, 2026) ([Link](https://www.coursera.org/account/accomplishments/verify/L2512Z3H8JZY))
